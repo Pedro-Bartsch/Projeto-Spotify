@@ -7,7 +7,7 @@ Linguagens & Frameworks utilizados:
 ===================
 ********
 **HTML**
-********
+
 
 *********
 ***CSS***
@@ -27,4 +27,4 @@ Linguagens & Frameworks utilizados:
 
 *********
 **REACT**
-
+*********
